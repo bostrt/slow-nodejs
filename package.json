@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
   "dependencies": {
     "sleep": "latest"
   }
