@@ -1,11 +1,22 @@
 {
   "name": "slow-nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "sleep": "latest"
-  }
+    "sleep": "^6.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bostrt/slow-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bostrt/slow-nodejs/issues"
+  },
+  "homepage": "https://github.com/bostrt/slow-nodejs#readme",
+  "description": ""
 }
